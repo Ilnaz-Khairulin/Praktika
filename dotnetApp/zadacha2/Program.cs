@@ -1,4 +1,4 @@
-﻿int a = 2, b = 25, c = 4;
+﻿int a = 2, b = 25, c = 40;
 int max = a;
 
 if(a>max) max = a;
